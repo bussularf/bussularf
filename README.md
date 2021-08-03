@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/fernanda-de-jesus-198450a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fernandabussular@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/bussularf)
+ ![Snake animation](https://github.com/bussularf/bussularf/blob/output/github-contribution-grid-snake.svg)
  
 </div>
