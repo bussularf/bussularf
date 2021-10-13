@@ -13,8 +13,7 @@
   <img align="center" alt="Fernanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Fernanda-gif" height="130" width="130" src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp">
-   <img align="right" alt="Fernanda-gif" height="120" width="130" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
+  <img align="right" alt="Fernanda-gif" height="200" width="250" src="https://media1.giphy.com/media/JRCl5NzZktObE4MQeD/giphy.gif">
 
 </div>
   
