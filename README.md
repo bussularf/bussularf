@@ -1,4 +1,5 @@
  ## Oiii! Eu sou a Fernanda
+ <img align="right" alt="Fernanda-gif-1" height="150" width="120" src="https://i.giphy.com/media/kg6TGqv2aSd4ZTSUL2/giphy.webp">
  
  <div>
   <a href="https://github.com/bussularf">
@@ -13,7 +14,6 @@
   <img align="center" alt="Fernanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Fernanda-gif-1" height="130" width="100" src="https://i.giphy.com/media/kg6TGqv2aSd4ZTSUL2/giphy.webp">
   <img align="right" alt="Fernanda-gif" height="120" width="170" src="https://i.giphy.com/media/ZbNJojSbuJvIIVGl2t/200.webp">
 
 </div>
