@@ -1,6 +1,4 @@
- ## Oiii! Eu sou a Fernanda
- <img align="right" alt="Fernanda-gif-1" height="150" width="120" src="https://i.giphy.com/media/kg6TGqv2aSd4ZTSUL2/giphy.webp">
- 
+ ## Hello World 
  <div>
   <a href="https://github.com/bussularf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bussularf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
